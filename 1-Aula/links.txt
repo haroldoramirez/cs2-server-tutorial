@@ -1,3 +1,5 @@
+#Configuracoes iniciais para o Servidor
 https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers
 
+# Para Criar a KEY
 https://steamcommunity.com/dev/managegameservers
