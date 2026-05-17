@@ -4,6 +4,10 @@ https://www.metamodsource.net/downloads.php?branch=dev
 Colar a pasta extraída da addons do metamod no caminho abaixo:
 G:\CS2Server\game\csgo
 
+Importante, alterar o arquivo gameinfo.gi e adicionar a linha abaixo:
+
+Game csgo/addons/metamod
+
 Baixar CounterStrikeSharp - Plataforma para plugins no servidor
 https://github.com/roflmuffin/CounterStrikeSharp
 
