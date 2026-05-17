@@ -1,11 +1,9 @@
 # CS2 Server Tutorial
 
-Este repositório contém todos os arquivos, scripts e materiais de apoio das aulas de criação de servidores de CS2 do canal alekfps0.
-
-Assista ao tutorial completo no YouTube: [alekfps0](https://www.youtube.com/watch?v=Htj-maMsOMM&list=PL-x0qgVmLDS4z2NoTZ937OgotAw9Kfbc-)
-
-# Conteúdo do Curso
-Aulas Práticas: Passo a passo desde a instalação do servidor base até a configuração de plugins avançados.
+Este repositório contém todos os arquivos, scripts e materiais de apoio para a criação de servidores de CS2 do canal.
 
 # Arquivos de Configuração
 CFGs prontas e otimizadas para servidores!
+
+# Créditos
+YouTube: [alekfps0](https://www.youtube.com/watch?v=Htj-maMsOMM&list=PL-x0qgVmLDS4z2NoTZ937OgotAw9Kfbc-)
