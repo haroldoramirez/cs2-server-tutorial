@@ -1,6 +1,8 @@
 # Configuracoes iniciais para o Servidor
 https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers
 
+Antes de forçar a pasta da instalação dos arquivos do servidor, precisa estar deslogado da steamcmd.exe
+
 # Para Criar a KEY
 https://steamcommunity.com/dev/managegameservers
 
