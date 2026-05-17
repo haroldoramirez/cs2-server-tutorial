@@ -1,10 +1,12 @@
-https://www.apachefriends.org/pt_br/index.html
 
-https://www.heidisql.com/
-
+Fontes importantes
 https://wiki.alliedmods.net/Installing_Metamod:Source
 
 https://github.com/roflmuffin/CounterStrikeSharp
 https://docs.cssharp.dev/docs/admin-framework/defining-admins.html
 
 https://github.com/daffyyyy/CS2-SimpleAdmin
+
+Fontes adicionais:
+https://www.apachefriends.org/pt_br/index.html
+https://www.heidisql.com/
