@@ -1,4 +1,5 @@
 Baixar Metamod -> https://wiki.alliedmods.net/Installing_Metamod:Source
+https://www.metamodsource.net/downloads.php?branch=dev
 
 Colar a pasta extraída da addons do metamod no caminho abaixo:
 G:\CS2Server\game\csgo
