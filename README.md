@@ -1,4 +1,4 @@
-# CS2 Server Configuration
+# Servidores de CS2
 
 Este repositório contém todos os arquivos, scripts e materiais de apoio para a criação de servidores de CS2.
 
