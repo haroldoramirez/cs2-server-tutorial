@@ -20,7 +20,16 @@ G:\CS2Server\game\csgo
 
 Configuração de jogadores Admin:
 https://docs.cssharp.dev/docs/admin-framework/defining-admins.html
-https://github.com/daffyyyy/CS2-SimpleAdmin
+
+Baixar o https://github.com/daffyyyy/CS2-SimpleAdmin
+Colar na pasta:G:\CS2Server\game\csgo\addons (pode substituir)
+
+Pre requisitos:
+PlayerSettings - Required by MenuManagerCS2
+AnyBaseLibCS2 - Required by PlayerSettings
+MenuManagerCS2
+
+Baixar os itens acima e colar na pasta addons!
 
 # Fontes adicionais
 https://www.apachefriends.org/pt_br/index.html
