@@ -8,7 +8,7 @@ Importante, alterar o arquivo gameinfo.gi e adicionar a linha abaixo:
 
 Game csgo/addons/metamod
 
-Após startar o servidor digitar o comando "meta"
+Após startar o servidor digitar o comando "meta" ou "meta version" no console do servidor startado.
 
 Baixar CounterStrikeSharp - Plataforma para plugins no servidor
 https://github.com/roflmuffin/CounterStrikeSharp
