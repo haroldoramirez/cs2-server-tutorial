@@ -21,6 +21,8 @@ G:\CS2Server\game\csgo
 Configuração de jogadores Admin:
 https://docs.cssharp.dev/docs/admin-framework/defining-admins.html
 
+criar o arquivo admins.json na pasta de exemplo G:\PumbaCS2DedicatedServer\game\csgo\addons\counterstrikesharp\configs
+
 Baixar o https://github.com/daffyyyy/CS2-SimpleAdmin
 Colar na pasta: G:\PumbaCS2DedicatedServer\game\csgo\addons
 
