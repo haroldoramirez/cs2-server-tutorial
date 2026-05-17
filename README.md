@@ -1,6 +1,6 @@
 # CS2 Server Tutorial
 
-Este repositório contém todos os arquivos, scripts e materiais de apoio para a criação de servidores de CS2 do canal.
+Este repositório contém todos os arquivos, scripts e materiais de apoio para a criação de servidores de CS2.
 
 # Arquivos de Configuração
 CFGs prontas e otimizadas para servidores!
