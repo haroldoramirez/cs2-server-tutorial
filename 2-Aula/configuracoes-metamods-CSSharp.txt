@@ -1,7 +1,15 @@
+Baixar Metamod -> https://wiki.alliedmods.net/Installing_Metamod:Source
 
-# Fontes importantes
-https://wiki.alliedmods.net/Installing_Metamod:Source
+Colar a pasta extraída da addons do metamod no caminho abaixo:
+G:\CS2Server\game\csgo
+
+Baixar CounterStrikeSharp - Plataforma para plugins no servidor
 https://github.com/roflmuffin/CounterStrikeSharp
+
+Colar a pasta extraída do CSS no caminho abaixo (pode sobrescrever o metamod):
+G:\CS2Server\game\csgo
+
+Configuração de jogadores Admin:
 https://docs.cssharp.dev/docs/admin-framework/defining-admins.html
 https://github.com/daffyyyy/CS2-SimpleAdmin
 
