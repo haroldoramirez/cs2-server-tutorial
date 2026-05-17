@@ -13,6 +13,8 @@ Após startar o servidor digitar o comando "meta"
 Baixar CounterStrikeSharp - Plataforma para plugins no servidor
 https://github.com/roflmuffin/CounterStrikeSharp
 
+Baixar a counterstrikesharp-with-runtime-windows-X.zip 
+
 Colar a pasta extraída do CSS no caminho abaixo (pode sobrescrever a pasta addonns que adicionamos o metamod anteriormente):
 G:\CS2Server\game\csgo
 
