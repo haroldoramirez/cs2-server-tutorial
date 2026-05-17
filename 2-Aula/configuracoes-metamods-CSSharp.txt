@@ -22,7 +22,7 @@ Configuração de jogadores Admin:
 https://docs.cssharp.dev/docs/admin-framework/defining-admins.html
 
 Baixar o https://github.com/daffyyyy/CS2-SimpleAdmin
-Colar na pasta:G:\CS2Server\game\csgo\addons (pode substituir)
+Colar na pasta: G:\PumbaCS2DedicatedServer\game\csgo\addons
 
 Pre requisitos:
 PlayerSettings - Required by MenuManagerCS2
