@@ -29,6 +29,10 @@ PlayerSettings - Required by MenuManagerCS2
 AnyBaseLibCS2 - Required by PlayerSettings
 MenuManagerCS2
 
+Comando say !admin disponível ao reiniciar o servidor.
+
+Usei a configuração padrão com SQLite.
+
 Baixar os itens acima e colar na pasta addons!
 
 # Fontes adicionais
