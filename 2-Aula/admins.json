@@ -1,27 +1,7 @@
 {
-  "Erikj": {
-    "identity": "KEY64",
-    "immunity": 100,
-    "flags": [
-      "@css/custom-flag-1",
-      "@css/custom-flag-2"
-    ],
-    "groups": [
-      "#css/admin"
-    ],
-    "command_overrides": {
-      "css_plugins": true,
-      "css": false
-    }
-  },
-  "Another erikj": {
-    "identity": "STEAM_0:1:1",
-    "flags": ["@mycustomplugin/admin"]
-  },
   "Pumba": {
-    "identity": "KEY64",
-    "flags": [
-      "@css/root"
-    ]
+    "identity": "76561197984564286",
+    "flags": ["@css/generic", "@css/kick", "@css/ban", "@css/unban", "@css/slay", "@css/changemap", "@css/chat", "@css/vote"],
+    "groups": ["#css/admin"]
   }
 }
