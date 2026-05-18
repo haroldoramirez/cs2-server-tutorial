@@ -7,3 +7,11 @@ Pre requisitos:
 
 Install Metamod
 Install CounterStrikeSharp (CSSharp)
+
+Colar as pastas addons e cpf no caminho abaixo:
+G:\PumbaCS2DedicatedServer\game\csgo
+
+
+Configurar o arquivo admins.json que esta localizado na pasta abaixo:
+
+G:\PumbaCS2DedicatedServer\game\csgo\cfg\MatchZy
