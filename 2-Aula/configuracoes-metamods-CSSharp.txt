@@ -15,7 +15,7 @@ https://github.com/roflmuffin/CounterStrikeSharp
 
 Baixar a counterstrikesharp-with-runtime-windows-X.zip 
 
-Colar a pasta extraída do CSS no caminho abaixo (pode sobrescrever a pasta addonns que adicionamos o metamod anteriormente):
+Colar a pasta extraída do CSS no caminho abaixo (pode sobrescrever a pasta addons que adicionamos o metamod anteriormente):
 G:\CS2Server\game\csgo
 
 Configuração de jogadores Admin:
