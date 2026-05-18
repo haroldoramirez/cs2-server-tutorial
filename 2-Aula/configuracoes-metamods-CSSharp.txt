@@ -31,11 +31,18 @@ PlayerSettings - Required by MenuManagerCS2
 AnyBaseLibCS2 - Required by PlayerSettings
 MenuManagerCS2
 
-Comando say !admin disponível ao reiniciar o servidor.
+Obs: respeitar a sequencia abaixo:
+
+Colar os plugins MenuManagerCS2, AnyBaseLibCS2, PlayerSettings na pasta abaixo:
+
+G:\PumbaCS2DedicatedServer\game\csgo\addons
+
+Depois colar o plugin CS2-SimpleAdmin na pasta abaixo:
+G:\PumbaCS2DedicatedServer\game\csgo\addons\counterstrikesharp
+
+Restartar o servidor e o comando no say !admin ficará disponível.
 
 Usei a configuração padrão com SQLite.
-
-Baixar os itens acima e colar na pasta addons!
 
 # Fontes adicionais
 https://www.apachefriends.org/pt_br/index.html
